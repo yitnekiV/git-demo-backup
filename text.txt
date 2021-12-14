@@ -8,3 +8,5 @@ Another text line 2
 
 String row 
 with to lines?
+
+Row is text line
