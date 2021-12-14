@@ -5,5 +5,3 @@ Next text line 2
 
 Wow another text
 Another text line 2
-
-____________________________________
